@@ -1,9 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 '''
-@file: face_register.py
-@author: Roython
-@Contact: rongyue_2014@163.com
+@author: Royzon
+@contact: rongyue_2014@163.com
 @time: 19-1-6
 '''
 

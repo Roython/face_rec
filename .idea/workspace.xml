@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/../face-detect-MTcnn-faceNet/collect_frame_to_csv.py" description="#图片生成128向量  保存到 csv文件中去&#10;def image_to_csv(image,lab..." line="42" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="2de500f4-e747-49bc-b0f0-69eee6a67424" name="Default Changelist" comment="" />
+    <list default="true" id="2de500f4-e747-49bc-b0f0-69eee6a67424" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_recognize.py" beforeDir="false" afterPath="$PROJECT_DIR$/face_recognize.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_register.py" beforeDir="false" afterPath="$PROJECT_DIR$/face_register.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,26 +14,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/face_register.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="76">
+              <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/face_recognize.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1140">
-              <caret line="60" column="51" selection-start-line="60" selection-start-column="51" selection-end-line="60" selection-end-column="51" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="57">
+              <caret line="3" selection-start-line="3" selection-end-line="4" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -68,6 +63,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -80,28 +76,43 @@
         <option value="$PROJECT_DIR$/face_rec.py" />
         <option value="$PROJECT_DIR$/face_encoding.py" />
         <option value="$PROJECT_DIR$/face_save_img.py" />
-        <option value="$PROJECT_DIR$/face_register.py" />
         <option value="$PROJECT_DIR$/data/face.txt" />
+        <option value="$PROJECT_DIR$/a.py" />
+        <option value="$PROJECT_DIR$/g.py" />
         <option value="$PROJECT_DIR$/face_recognize.py" />
+        <option value="$PROJECT_DIR$/face_register.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="4">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="992" />
-    <option name="y" value="24" />
+    <option name="y" value="-4" />
     <option name="width" value="928" />
-    <option name="height" value="1056" />
+    <option name="height" value="1084" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="face_rec" type="b2602c69:ProjectViewProjectNode" />
+              <item name="face_rec" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -247,12 +258,21 @@
       <option name="presentableId" value="Default" />
       <updated>1542355613775</updated>
     </task>
+    <task id="LOCAL-00001" summary="Add file header comment">
+      <created>1546752963036</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1546752963036</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="992" y="24" width="928" height="1056" extended-state="4" />
+    <frame x="64" y="-11" width="1857" height="1092" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.3155022" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10043668" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -263,7 +283,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.38428417" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.37304077" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50054586" side_tool="true" weight="0.34273773" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -289,6 +309,10 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout-to-restore>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add file header comment" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add file header comment" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/collect_face2data.py" />
@@ -384,6 +408,8 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/a.py" />
+    <entry file="file://$PROJECT_DIR$/g.py" />
     <entry file="file://$PROJECT_DIR$/data/face.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
@@ -391,23 +417,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/face_register.py">
+    <entry file="file://$PROJECT_DIR$/face_recognize.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="57">
+          <caret line="3" selection-start-line="3" selection-end-line="4" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/face_recognize.py">
+    <entry file="file://$PROJECT_DIR$/face_register.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1140">
-          <caret line="60" column="51" selection-start-line="60" selection-start-column="51" selection-end-line="60" selection-end-column="51" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="76">
+          <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
         </state>
       </provider>
     </entry>
